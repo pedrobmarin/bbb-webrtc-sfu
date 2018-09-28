@@ -22,6 +22,7 @@ screenshare-preferred-h264-profile: "42e01f"
 screenshareKeyframeInterval: 2
 websocketPongTimeout: 5000
 websocketPingInterval: 1000
+maxAudioConnections: 100
 
 recordScreenSharing: false
 recordWebcams: false
